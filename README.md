@@ -1,1 +1,1 @@
-# Program-Counter
+# Program-Counter using verilog and vhdl
